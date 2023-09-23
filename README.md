@@ -8,5 +8,7 @@ I'm also currently studying Spring and Spring Boot!
 
 ![Alyson Cantalice's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlysonCantalice&show_icons=true&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=alysoncantalice&style=for-the-badge)
+
 ## Languages and Technologies 👨‍💻
 ![My Skills](https://skills.thijs.gg/icons?i=java,python,spring&theme=dark)
